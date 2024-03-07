@@ -65,7 +65,7 @@ Tecnologias e Linguagens: `Python`, `Scratch`, `Javascript`, `HTML`, `CSS`, `Pro
 <br>
 <br>
   
-[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://d1fdloi71mui9q.cloudfront.net/koVCWASIQiGboLaL1aRn_2F69F8aFVhPY5TSt"/>](https://cursos.onebitcode.com/)
+[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://th.bing.com/th/id/R.d89b643c17f601608cb8e840a032655a?rik=9%2fQ%2b5F9ULmAlEg&pid=ImgRaw&r=0"/>](https://cursos.onebitcode.com/)
 
 **Curso OneBitCode** \
 [**ONEBITCODE**](https://cursos.onebitcode.com/) • Estudante \
