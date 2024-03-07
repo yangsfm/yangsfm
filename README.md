@@ -38,7 +38,7 @@ Tecnologias e Linguagens: `JAVA`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`, 
 <br>
 <br>
   
-[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://th.bing.com/th/id/R.d4ae4e22adf04444f58fb675175cbebe?rik=74YeAZtN9erLdA&pid=ImgRaw&r=0"/>](https://etecitanhaem.com.br/)
+[<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://th.bing.com/th/id/OIP.baBNF1j9swIU5QP_50lKEwHaEw?rs=1&pid=ImgDetMain"/>](https://etecitanhaem.com.br/)
 
 **Técnico em Desenvolvimento de Sistemas** \
 [**ETEC ITANHAÉM**](https://etecitanhaem.com.br/) • Estudante \
