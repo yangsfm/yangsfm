@@ -101,8 +101,16 @@ June 2022 - January 2023 \
 Skills: `Computer Hardware`, `Computer Maintenance`, `Project Management`, `Office Package`, `Group Dynamics`, `Social and Emotional Learning`\
 <br>
 <br>
-<br>
 
+[<img align="left" height="120px" width="120px" alt="" src="https://www.ensinamais.com.br/pub/media/logo/stores/1/logo-ensina-mais.png"/>]([https://acaosocialdeperuibe.org/#:~:text=Fundada%20em%201969%2C%20a%20A%C3%A7%C3%A3o%20Social%20de%20Peru%C3%ADbe,igualdade%2C%20o%20bem-estar%20social%20e%20o%20desenvolvimento%20regional.](https://www.ensinamais.com.br/))
+
+**Robotics Teacher** \
+[**Teach More Monica's Gang**](https://www.ensinamais.com.br/) • Teacher \
+February 2023 - March 2023 \
+Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dynamics`, `Projects`\
+<br>
+<br>
+<br>
 
 ## 🎯Skills:
 
