@@ -34,7 +34,7 @@
 **Systems Analysis and Development** \
 [**FATEC PRAIA GRANDE**](https://fatecrl.edu.br/) • Student \
 February 2022 - December 2024 \
-Technologies and Languages: `JAVA`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`, `REACT`\
+Technologies and Languages: `Java`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`, `React`, `React Native`, `SQL`, `Oracle`, `Python`\
 <br>
 <br>
   
@@ -77,34 +77,34 @@ Technologies and Languages: `TypeScript`, `Git e Github`, `Javascript`, `HTML`, 
 
 **React Course** \
 [**UDEMY**](udemy.com/) • Student \
-Technologies and Languages: `React´, `React Native´, `TypeScript`, `Git e Github`, `Javascript`, `HTML`, `CSS`, `SQL`, `AngularJS`\
+Technologies and Languages: `React`, `React Native`, `TypeScript`, `Git e Github`, `Javascript`, `HTML`, `CSS`, `SQL`, `AngularJS`\
 <br>
 <br>
 
 
-## 💼Experiências Profissionais:
+## 💼Professional Experiences:
 
 [<img align="left" height="120px" width="120px" alt="" src="https://acaosocialdeperuibe.org/wp-content/uploads/2021/10/cropped-logo-Acao-Social.jpg"/>](https://acaosocialdeperuibe.org/#:~:text=Fundada%20em%201969%2C%20a%20A%C3%A7%C3%A3o%20Social%20de%20Peru%C3%ADbe,igualdade%2C%20o%20bem-estar%20social%20e%20o%20desenvolvimento%20regional.)
 
-**Professor de Informática** \
-[**Ação Social de Peruíbe**](https://acaosocialdeperuibe.org/#:~:text=Fundada%20em%201969%2C%20a%20A%C3%A7%C3%A3o%20Social%20de%20Peru%C3%ADbe,igualdade%2C%20o%20bem-estar%20social%20e%20o%20desenvolvimento%20regional.) • Professor \
-Junho 2022 - Janeiro 2023 \
-Habilidades: `Gestão de Projetos`, `Aprendizagem social e emocional`, `Pacote Office`, `Dinâmica de Grupo`\
+**Computer Science Teacher** \
+[**Social Action of Peruíbe**](https://acaosocialdeperuibe.org/#:~:text=Fundada%20em%201969%2C%20a%20A%C3%A7%C3%A3o%20Social%20de%20Peru%C3%ADbe,igualdade%2C%20o%20bem-estar%20social%20e%20o%20desenvolvimento%20regional.) • Teacher \
+June 2022 - January 2023 \
+Skills: `Project Management`, `Social and Emotional Learning`, `Office Package`, `Group Dynamics`\
 <br>
 <br>
   
 [<img align="left" height="120px" width="120px" alt="" src="https://acaosocialdeperuibe.org/wp-content/uploads/2021/10/cropped-logo-Acao-Social.jpg"/>](https://acaosocialdeperuibe.org/#:~:text=Fundada%20em%201969%2C%20a%20A%C3%A7%C3%A3o%20Social%20de%20Peru%C3%ADbe,igualdade%2C%20o%20bem-estar%20social%20e%20o%20desenvolvimento%20regional.)
 
-**Professor de Manutenção de Computadores** \
-[**Ação Social de Peruíbe**](https://acaosocialdeperuibe.org/#:~:text=Fundada%20em%201969%2C%20a%20A%C3%A7%C3%A3o%20Social%20de%20Peru%C3%ADbe,igualdade%2C%20o%20bem-estar%20social%20e%20o%20desenvolvimento%20regional.) • Professor \
-Junho 2022 - Janeiro 2023 \
-Habilidades: `Hardware de Computador`, `Manutenção de Computadores`, `Gestão de Projetos`, `Pacote Office`, `Dinâmica de Grupo`, `Aprendizagem social e emocional`\
+**Computer Maintenance Teacher** \
+[**Social Action of Peruíbe**](https://acaosocialdeperuibe.org/#:~:text=Fundada%20em%201969%2C%20a%20A%C3%A7%C3%A3o%20Social%20de%20Peru%C3%ADbe,igualdade%2C%20o%20bem-estar%20social%20e%20o%20desenvolvimento%20regional.) • Teacher \
+June 2022 - January 2023 \
+Skills: `Computer Hardware`, `Computer Maintenance`, `Project Management`, `Office Package`, `Group Dynamics`, `Social and Emotional Learning`\
 <br>
 <br>
 <br>
 
 
-## 🎯Habilidades:
+## 🎯Skills:
 
 <h5>Front-end:</h5>
 
@@ -129,7 +129,7 @@ Habilidades: `Hardware de Computador`, `Manutenção de Computadores`, `Gestão 
 <br> 
 </div>
 
-<h4>Ferramentas:</h4>
+<h4>Tools:</h4>
 
 <div style="display: inline_block">
   
