@@ -72,7 +72,6 @@ Technologies and Languages: `Python`, `Scratch`, `Javascript`, `HTML`, `CSS`, `P
 Technologies and Languages: `TypeScript`, `Git e Github`, `Javascript`, `HTML`, `CSS`, `Bootstrap`, `React`, `SQL`, `MongoDB`, `AngularJS`, `VueJS`\
 <br>
 <br>
-<br>
 
 [<img align="left" height="120px" width="120px" alt="" src="https://th.bing.com/th/id/OIP.K-4RqDC6zFrpAG31ayDDOgHaHa?rs=1&pid=ImgDetMain"/>](udemy.com/)
 
