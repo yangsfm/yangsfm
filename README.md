@@ -110,7 +110,6 @@ February 2023 - March 2023 \
 Skills: `Robotics`, `Social and Emotional Learning`, `Communication`, `Group Dynamics`, `Projects`\
 <br>
 <br>
-<br>
 
 ## 🎯Skills:
 
