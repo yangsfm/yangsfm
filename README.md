@@ -100,7 +100,6 @@ Skills: `Project Management`, `Social and Emotional Learning`, `Office Package`,
 June 2022 - January 2023 \
 Skills: `Computer Hardware`, `Computer Maintenance`, `Project Management`, `Office Package`, `Group Dynamics`, `Social and Emotional Learning`\
 <br>
-<br>
 
 [<img align="left" height="120px" width="120px" alt="" src="https://th.bing.com/th/id/OIP.SiYKQjI9MGYp34QbSSQvqQHaEQ?w=265&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"/>](https://www.ensinamais.com.br)
 
