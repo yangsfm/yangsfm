@@ -102,7 +102,8 @@ Skills: `Computer Hardware`, `Computer Maintenance`, `Project Management`, `Offi
 <br>
 <br>
 
-[<img align="left" height="120px" width="120px" alt="" src="[https://th.bing.com/th/id/OIP.SiYKQjI9MGYp34QbSSQvqQHaEQ?w=265&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7](https://www.ensinamais.com.br/))
+[<img align="left" height="120px" width="120px" alt="" src="https://th.bing.com/th/id/OIP.SiYKQjI9MGYp34QbSSQvqQHaEQ?w=265&h=180&c=7&r=0&o=5&dpr=1.1&pid=1.7"/>]
+(https://www.ensinamais.com.br)
 
 **Robotics Teacher** \
 [**Teach More Monica's Gang**](https://www.ensinamais.com.br/) • Teacher \
