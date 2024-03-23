@@ -36,7 +36,6 @@
 February 2022 - December 2024 \
 Technologies and Languages: `Java`, `C++`, `NodeJs`, `Javascript`, `HTML`, `CSS`, `React`, `React Native`, `SQL`, `Oracle`, `Python`\
 <br>
-<br>
   
 [<img align="left" height="120px" width="120px" alt="logofatecrl" src="https://th.bing.com/th/id/OIP.baBNF1j9swIU5QP_50lKEwHaEw?rs=1&pid=ImgDetMain"/>](https://etecitanhaem.com.br/)
 
